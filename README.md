@@ -1,2 +1,2 @@
 # hello-world
-Some repository
+Viva la vida loca.
